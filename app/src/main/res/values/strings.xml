@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="logo">Викторина</string>
+    <string name="logo2">Играть</string>
+    <string name="logo3">Тематическая викторина</string>
+    <string name="logo4">Общие знания</string>
+    <string name="logo5">Спорт</string>
+    <string name="logo6">Визуальные задачи</string>
+    <string name="logo7">Наука и технологии</string>
+    <string name="logo8">Выберите тему</string>
+    <string name="logo9">Выберите правильный вариант</string>
+
+
+
+    //Tema#1
+
+
+    //Level1_1
+    <string name="level1_nahalo">Вопрос 1</string>
+    <string name="level1">Визуальные задачи</string>
+    <string name="level1_otveti1">A) 4</string> //Правильный вариант
+    <string name="level1_otveti2">Б) 7</string>
+    <string name="level1_otveti3">В) 10</string>
+    //Level1_1
+
+    //Level1_2
+    <string name="level1_2_nahalo">Вопрос 2</string>
+    <string name="level1_2_otveti1">A) 105</string>
+    <string name="level1_2_otveti3">В) 81</string>//Правильный вариант
+    <string name="level1_2_otveti2">Б) 101</string>
+    //Level1_2
+
+    //Level1_3
+    <string name="level1_3_nahalo">Вопрос 3</string>
+    <string name="level1_3_otveti1">A) 21</string>//Правильный вариант
+    <string name="level1_3_otveti3">В) 25</string>
+    <string name="level1_3_otveti2">Б) 30</string>
+    //Level1_3
+
+    //Level1_4
+    <string name="level1_4_nahalo">Вопрос 4</string>
+    <string name="level1_4_otveti1">A) 57</string>
+    <string name="level1_4_otveti3">В) 82</string>
+    <string name="level1_4_otveti2">Б) 41</string>//Правильный вариант
+    //Level1_4
+
+    //Level1_5
+    <string name="level1_5_nahalo">Вопрос 5</string>
+    <string name="level1_5_otveti1">A) 81</string>//Правильный вариант
+    <string name="level1_5_otveti3">В) 72</string>
+    <string name="level1_5_otveti2">Б) 93</string>
+    //Level1_5
+
+    //Kones_urovnia1
+    <string name="level1_kones_urovnia">Поздравляем, вы прошли данную тему!</string>
+    <string name="level1_kones_urovnia2">Это еще не готовое приложение, в дальнейшем планируется развивать его! Надеюсь, вам все понравилось!</string>
+    <string name="level1_kones_urovnia3">Выбор темы</string>
+    <string name="level2_kones_urovnia3">Это еще не готовое приложение, в дальнейшем планируется развивать его</string>
+    //Kones_urovnia1
+    //Tema#1
+
+
+    //Tema#2
+
+
+    //Level
+    <string name="level2">Каково назначение рисунка на шинах автомобильных колес?</string>
+    <string name="level2_2">Для красоты</string>
+    <string name="level2_3">Для лучшего сцепления с грунтом</string>//Правильный вариант
+    <string name="level2_4">Предохраняет обод колеса от удара</string>
+    //Level
+
+    //Level2
+    <string name="level2_5">Зачем гоночному автомобилю крылья?</string>
+    <string name="level2_6">Для большей скорости</string>
+    <string name="level2_7">Для устойчивого поворота</string>
+    <string name="level2_8">Для того чтобы лучше прижимало к дороге</string>//Правильный вариант
+    //Level2
+
+    //Level3
+    <string name="level2_9">Какова в машине роль аккумулятора?</string>
+    <string name="level2_10">Для запаса энергии</string>//Правильный вариант
+    <string name="level2_11">Для запаса воды</string>
+    <string name="level2_12">Для запаса масла</string>
+    //Level3
+
+    //Level4
+    <string name="level2_13">Русский изобретатель первого в мире парового двигателя?</string>
+    <string name="level2_14">Иван Ползунов</string>//Правильный вариант
+    <string name="level2_15">братья Черепановы</string>
+    <string name="level2_16">Иван Кулибин</string>
+    //Level4
+
+    //Level5
+    <string name="level2_17">Прибор, определяющий количество оборотов двигателя?</string>
+    <string name="level2_18">Спидометр</string>
+    <string name="level2_19">Тахометр</string>//Правильный вариант
+    <string name="level2_20">Термометр</string>
+    //Level5
+    //Tema#2
+</resources>

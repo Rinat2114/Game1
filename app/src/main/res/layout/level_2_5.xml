@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@drawable/fon"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/logo3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8sp"
+        android:fontFamily="sans-serif"
+        android:gravity="center_horizontal"
+        android:text="Вопрос 5"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="30sp" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/button05"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="425dp"
+            android:onClick="level_0"
+            android:paddingHorizontal="120dp"
+            android:text="Ломоносов" />
+
+        <Button
+            android:id="@+id/button005"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:onClick="Level_00"
+            android:paddingHorizontal="120dp"
+            android:text="Чехов" />
+
+        <Button
+            android:id="@+id/button0005"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:backgroundTint="@color/purple_500"
+            android:onClick="Level_000"
+            android:paddingHorizontal="115dp"
+            android:text="Толстой"
+            android:textColor="@color/white" />
+
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80sp"
+        android:fontFamily="sans-serif"
+        android:gravity="center_horizontal"
+        android:text="Кто из ученых, движимый знаниями, пришел в Москву пешком?"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="30sp" />
+
+</RelativeLayout>
